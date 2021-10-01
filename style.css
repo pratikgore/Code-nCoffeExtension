@@ -1,0 +1,19 @@
+body {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(66, 158, 238);
+    display: flex;
+    justify-content: center;
+    background-image: url('images.png');
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    background-color: rgb(232, 236, 235);
+    color: rgb(3, 3, 3);
+    border-radius: 6px;
+    border: 3px  rgb(219, 18, 102);
+    padding: 10px;
+}
